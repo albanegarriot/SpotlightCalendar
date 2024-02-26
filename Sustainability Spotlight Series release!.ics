@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240226T103821Z
+DESCRIPTION:\n\n\n\n\n 	\nHi Sustainability enthusiasts! 🌿\n\nThank yo
+	u for subscribing to our new monthly webinar series… ”Sustainability S
+	potlight”!\n\n\nBy registering\, you'll be notified when new webinars go
+	 live\, and you'll have the opportunity to watch the ones that interest yo
+	u the most!\n\n👉 Psssst: if you missed one\, no problem. \nAll availa
+	ble Webinars can be found on this WIKI page <https://dsext001-eu1-215dsi07
+	08-3dswym.3dexperience.3ds.com/community/swym:215dsi0708:DSEXT001:communit
+	y:682?content=swym:215dsi0708:DSEXT001:wikitree:r66mbOGXSD6z7wx05alLhw> \,
+	 within the Passion to Learn community!\n\nWe hope you’ll enjoy it\, & f
+	eel free to share your feedback! It’s always very precious! \n\nThank yo
+	u for your interest!🌱\n\n                               Please note t
+	hat there will be no webinar in August.\n\n	\n\n
+DTEND;VALUE=DATE:20240307
+DTSTAMP:20240226T103821Z
+DTSTART;VALUE=DATE:20240306
+LAST-MODIFIED:20240226T103821Z
+PRIORITY:5
+RECURRENCE-ID;TZID="Romance Standard Time":20240306T000000
+SEQUENCE:0
+SUMMARY;LANGUAGE=fr:Sustainability Spotlight Series release!
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E00800000000E01A997EB565DA01000000000000000
+	010000000ADAB4F96127CFF429ACE3C4369AF3316
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="
+	fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR
+	=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN>
+	</P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="f
+	r"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr-fr"><FO
+	NT FACE="Calibri"></FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></S
+	PAN><SPAN LANG="fr">&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</SPA
+	N><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><B></B></S
+	PAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B> </B></SPAN></P>\n\n<
+	P DIR=LTR ALIGN=CENTER><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></
+	B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="en-us"><FONT COLOR="
+	#70AD47" SIZE=4 FACE="3ds Condensed">Hi Sustainability enthusiasts!</FONT>
+	</SPAN></B><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SP
+	AN LANG="fr"><B></B></SPAN><B><SPAN LANG="en-us"><FONT COLOR="#70AD47" SIZ
+	E=4 FACE="3ds Condensed"> </FONT></SPAN></B><SPAN LANG="fr"><B></B></SPAN
+	><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B><FONT COLOR="#3D3D3D" SI
+	ZE=4 FACE="Segoe UI Emoji">🌿</FONT></B></SPAN><SPAN LANG="fr"><B></B>
+	</SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SPA
+	N LANG="en-us"></SPAN></B></P>\n\n<P DIR=LTR><SPAN LANG="fr"><B></B></SPAN
+	><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG
+	="en-us"></SPAN></B></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="fr"><B></B
+	></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SP
+	AN LANG="en-us"><FONT SIZE=5 FACE="3ds Condensed">Thank you for subscribin
+	g to our new monthly webinar series… ”</FONT></SPAN></B><SPAN LANG="fr
+	"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B><U></U></
+	B></SPAN><B><U><SPAN LANG="en-us"><FONT COLOR="#A9D18E" SIZE=5 FACE="3ds C
+	ondensed">Sustainability Spotlight</FONT></SPAN></U></B><SPAN LANG="fr"></
+	SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"><FON
+	T SIZE=5 FACE="3ds Condensed">”</FONT></SPAN><SPAN LANG="fr"><B></B></SP
+	AN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LA
+	NG="en-us"><FONT SIZE=5 FACE="3ds Condensed">!</FONT></SPAN></B></P>\n\n<P
+	 DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></S
+	PAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="
+	fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"><FONT FACE="3ds Conde
+	nsed">By</FONT></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B
+	></SPAN><B><SPAN LANG="en-us"> <FONT FACE="3ds Condensed">registering</FON
+	T></SPAN></B><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-
+	us"><FONT FACE="3ds Condensed">\,</FONT></SPAN><SPAN LANG="fr"><B></B></SP
+	AN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="en-us"> <FONT FACE="3ds Co
+	ndensed">you'll be notified when new webinars go live</FONT></SPAN></B><SP
+	AN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"><FONT FACE="
+	3ds Condensed">\, and you'll have the opportunity to watch the ones that i
+	nterest you the most!</FONT></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN L
+	ANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="
+	en-us"></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="fr"><B></B></SPA
+	N><SPAN LANG="fr"><B><FONT FACE="Segoe UI Emoji">👉</FONT></B></SPAN><
+	SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"><FONT FACE
+	="3ds Condensed"></FONT></SPAN><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="f
+	r"><I></I></SPAN><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"> <FON
+	T SIZE=2 FACE="3ds Condensed Light">Psssst: if you missed one\, no problem
+	. </FONT></SPAN></I></P>\n\n<P DIR=LTR ALIGN=CENTER><I><SPAN LANG="en-us">
+	<FONT SIZE=2 FACE="3ds Condensed Light">All available Webinars can be foun
+	d on this</FONT></SPAN></I><SPAN LANG="fr"> </SPAN><A HREF="https://dsext0
+	01-eu1-215dsi0708-3dswym.3dexperience.3ds.com/community/swym:215dsi0708:DS
+	EXT001:community:682?content=swym:215dsi0708:DSEXT001:wikitree:r66mbOGXSD6
+	z7wx05alLhw"><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></SPAN><
+	SPAN LANG="fr"><I><U></U></I></SPAN><I><U><SPAN LANG="en-us"><FONT COLOR="
+	#0563C1" SIZE=2 FACE="3ds Condensed Light">WIKI page</FONT></SPAN></U></I>
+	<SPAN LANG="fr"></SPAN></A><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><
+	I></I></SPAN><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"><FONT SIZ
+	E=2 FACE="3ds Condensed Light">\, within the Passion to Learn community!</
+	FONT></SPAN></I></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="fr"><I></I></S
+	PAN><I><SPAN LANG="en-us"></SPAN></I></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN
+	 LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG
+	="en-us"><FONT SIZE=2 FACE="3ds Condensed">We hope you’ll enjoy it\, &am
+	p\; feel free to share your feedback! It’s always very precious! </FONT>
+	</SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="en-us"><FONT SIZE=2 FAC
+	E="3ds Condensed">Thank you for your interest!</FONT></SPAN><SPAN LANG="fr
+	"></SPAN><SPAN LANG="fr"><FONT FACE="Segoe UI Emoji">🌱</FONT></SPAN><
+	SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="fr"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">&nbsp\;&nbsp\;&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbs
+	p\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></SPAN><SPAN LANG="fr"></S
+	PAN><SPAN LANG="en-us"> <FONT FACE="Calibri">Please note that there will b
+	e no webinar in August.</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en
+	-us"></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="fr"><I></I></SPAN>
+	<SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"></SPAN></I></P>\n\n<P 
+	DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SP
+	AN><SPAN LANG="en-us">&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</S
+	PAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"><
+	/SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:TRUE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT1080M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
